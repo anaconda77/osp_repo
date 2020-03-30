@@ -1,2 +1,3 @@
 git text
-Hello, world!
+Hello, world!(edit from Local)
+Welcome, World!(edit from Remote)
