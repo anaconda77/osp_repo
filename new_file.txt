@@ -1,3 +1,4 @@
 git text
 Hello, world!(edit from Local)
 Welcome, World!(edit from Remote)
+Branch 2 edit
