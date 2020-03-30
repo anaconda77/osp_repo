@@ -1,4 +1,4 @@
 git text
 Hello, world!(edit from Local)
 Welcome, World!(edit from Remote)
-Branch 1 File Edit
+Branch 1 edit
